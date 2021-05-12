@@ -28,7 +28,7 @@ macro "Batch generate visual representations of 3D ROIs[F9]"{
  * 	    └── Outputs		
  * 
  * 	***DISCLAIMER*** 
- * This ImageJ macro is provided "As is". In no event shall the author of this macro or its contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits).
+ * This ImageJ macro is provided "As is" under GNU General Public License v2.0. In no event shall the author of this macro or its contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits).
  */
 dir = getDirectory("DIRECTORY WITH ORIGINAL IMAGES TO ANALYSE");
    roidir = getDirectory("CORRESPONDING ROI FILE DIRECTORY");
