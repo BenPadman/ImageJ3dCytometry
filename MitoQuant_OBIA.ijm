@@ -28,7 +28,7 @@ macro "Batch 3D OBIA of Mitochondria [F9]"{
  * It will fill the ROI and output folders with data.
  * 
  * 	***DISCLAIMER*** 
- * This ImageJ macro is provided "As is". In no event shall the author of this macro or its contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits).
+ * This ImageJ macro is provided "As is" under GNU General Public License v2.0. In no event shall the author of this macro or its contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits).
  */
 
 // MACRO WARNING MESSAGE START
